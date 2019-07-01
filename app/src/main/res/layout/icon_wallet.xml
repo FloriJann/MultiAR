@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_gravity="center">
+
+    <ImageView
+            android:layout_width="@dimen/menu_item_icon_size"
+            android:layout_height="@dimen/menu_item_icon_size"
+            android:layout_gravity="center"
+            android:src="@drawable/folder_open" android:contentDescription="@string/the_wallet"/>
+
+    <FrameLayout
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:layout_gravity="top|end"
+            android:background="@drawable/ic_brightness_accent_color_24dp"
+            tools:visibility="visible">
+
+        <TextView
+                android:id="@+id/wallet_count_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textColor="@color/white"
+                android:textSize="10sp"
+                tools:text="3" tools:ignore="SmallSp"/>
+    </FrameLayout>
+
+</FrameLayout>

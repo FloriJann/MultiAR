@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- general dimensions for all custom menu items -->
+    <dimen name="menu_item_icon_size">24dp</dimen>
+
+    <!-- Overriding sizes of the FAB -->
+    <dimen name="design_fab_size_mini">30dp</dimen>
+</resources>

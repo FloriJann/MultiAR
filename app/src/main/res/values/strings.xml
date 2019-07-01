@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MultiAR</string>
+
+    <string name="searchButton">Go!</string>
+    <string name="searchEditTextHint">search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wallet">wallet</string>
+    <string name="arscene">arScene</string>
+    <string name="the_wallet">the wallet</string>
+</resources>
