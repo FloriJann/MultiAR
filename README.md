@@ -1,11 +1,11 @@
-##Poly API Key
+## Poly API Key
 If you want to try out this app you need to add your own Poly API Key into the 
 [UseCasePolyApi.kt](app/src/main/java/inovex/ad/multiar/polyViewerModule/poly/UseCasePolyApi.kt)-file.
 
-##Blogarticle
+## Blogarticle
 I wrote an [article](https://www.inovex.de/blog/android-ar-arcore-poly/) about this app 
 
-##license
+## license
    Copyright 2019 Florian Jann
 
    Licensed under the Apache License, Version 2.0 (the "License");
